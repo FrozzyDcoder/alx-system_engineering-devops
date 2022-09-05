@@ -1,1 +1,1 @@
-Write a script that lists all the files with a .gif
+Create a script that decodes acrostics that use the first letter of each line
